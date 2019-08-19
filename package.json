@@ -1,0 +1,22 @@
+{
+  "name": "wrapper-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sumanta23/server-wrapper": "^1.0.7",
+    "applogger-wrapper": "^1.0.0",
+    "boot-wrapper": "^1.0.1",
+    "config-wrapper": "^1.0.3",
+    "cors": "^2.8.5",
+    "mongodbconnection-wrapper": "^1.0.1",
+    "rabbitmqconnection-wrapper": "^1.0.0",
+    "redisconnection-wrapper": "^1.0.1",
+    "ws": "^7.0.1"
+  }
+}
